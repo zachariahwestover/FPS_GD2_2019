@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 ﻿{"cameraMode":{"drawMode":0,"name":"Shaded","section":"Shading Mode"},"sceneLighting":true,"audioPlay":false,"sceneViewState":{"showFog":true,"showMaterialUpdate":false,"showSkybox":true,"showFlares":true,"showImageEffects":true,"showParticleSystems":true},"in2DMode":false,"pivot":{"x":-70.26097869873047,"y":-4.2979888916015629,"z":68.66453552246094},"rotation":{"x":-0.29395824670791628,"y":0.23951959609985352,"z":-0.0757732093334198,"w":-0.9223122596740723},"size":344.6744079589844,"orthographic":false}
+=======
+﻿{"cameraMode":{"drawMode":0,"name":"Shaded","section":"Shading Mode"},"sceneLighting":true,"audioPlay":false,"sceneViewState":{"showFog":true,"showMaterialUpdate":false,"showSkybox":true,"showFlares":true,"showImageEffects":true,"showParticleSystems":true},"in2DMode":false,"pivot":{"x":-578.6994018554688,"y":-266.18048095703127,"z":279.9364318847656},"rotation":{"x":0.17074111104011537,"y":-0.515728771686554,"z":0.10522215813398361,"w":0.8330873250961304},"size":705.030517578125,"orthographic":false}
+>>>>>>> origin/ZachBranch
