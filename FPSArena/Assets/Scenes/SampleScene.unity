@@ -928,11 +928,16 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 618028859}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+<<<<<<< Updated upstream
   m_LocalPosition: {x: 0, y: 1.427, z: -5.5793743}
+=======
+  m_LocalPosition: {x: -1.5, y: 1.27, z: -5.5793743}
+>>>>>>> Stashed changes
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children:
   - {fileID: 963194228}
   m_Father: {fileID: 0}
+<<<<<<< Updated upstream
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!54 &618028865
@@ -980,6 +985,9 @@ Transform:
   m_Children: []
   m_Father: {fileID: 1297862895}
   m_RootOrder: 0
+=======
+  m_RootOrder: 5
+>>>>>>> Stashed changes
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &705507993
 GameObject:
@@ -1070,7 +1078,11 @@ Transform:
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
+<<<<<<< Updated upstream
   m_RootOrder: 0
+=======
+  m_RootOrder: 2
+>>>>>>> Stashed changes
   m_LocalEulerAnglesHint: {x: 50, y: -30, z: 0}
 --- !u!4 &821807326 stripped
 Transform:
@@ -1451,7 +1463,11 @@ Transform:
   m_LocalScale: {x: 20, y: 1, z: 20}
   m_Children: []
   m_Father: {fileID: 0}
+<<<<<<< Updated upstream
   m_RootOrder: 1
+=======
+  m_RootOrder: 3
+>>>>>>> Stashed changes
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &963194225
 GameObject:
@@ -2763,7 +2779,11 @@ Transform:
   - {fileID: 821807326}
   - {fileID: 1214162263}
   m_Father: {fileID: 0}
+<<<<<<< Updated upstream
   m_RootOrder: 2
+=======
+  m_RootOrder: 4
+>>>>>>> Stashed changes
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1809604134
 GameObject:
